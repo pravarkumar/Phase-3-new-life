@@ -151,6 +151,9 @@ then again (1,2) (3,4) ....
 O(n) time 
 
 
+<img width="1192" height="362" alt="Screenshot 2026-09-21 at 9 37 59 PM" src="https://github.com/user-attachments/assets/cb546c0c-4338-48e2-9450-c3aeba62b0a7" />
+
+
 
 
 
