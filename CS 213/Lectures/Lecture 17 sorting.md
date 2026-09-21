@@ -98,6 +98,60 @@ This sorting algorithm is intutive only and the name is pretty self explanatory
 But int he code we have written we are consantly allocting O(n) stpace for the temp vector its better to send it in as an argument 
 
 
+<img width="708" height="400" alt="Screenshot 2026-09-21 at 8 54 55 PM" src="https://github.com/user-attachments/assets/b0178012-04db-4083-b252-bfbcc8a32647" />
+
+
+<img width="336" height="82" alt="Screenshot 2026-09-21 at 8 55 43 PM" src="https://github.com/user-attachments/assets/4f2645c2-44aa-4f47-8dc3-ca3ba8f99423" />
+
+
+<img width="1105" height="258" alt="Screenshot 2026-09-21 at 8 56 21 PM" src="https://github.com/user-attachments/assets/45ff469c-30fc-47a4-a8bc-385227202c17" />
+
+
+<img width="726" height="284" alt="Screenshot 2026-09-21 at 8 58 38 PM" src="https://github.com/user-attachments/assets/237e866e-22b8-41b7-ab42-986fd8097907" />
+
+
+<img width="1233" height="117" alt="Screenshot 2026-09-21 at 9 09 52 PM" src="https://github.com/user-attachments/assets/bbbc383e-fff8-4525-8d39-8fc6fe82e59f" />
+
+
+<img width="1284" height="691" alt="Screenshot 2026-09-21 at 9 13 09 PM" src="https://github.com/user-attachments/assets/bda65c28-3371-4a67-9ae1-61a23ac54500" />
+
+
+<img width="1268" height="619" alt="Screenshot 2026-09-21 at 9 13 57 PM" src="https://github.com/user-attachments/assets/7e1f5d14-fe37-40e0-ba9f-dbe6f2b64ed5" />
+
+Therefore sorting is atleast O(n * log n) .
+
+<img width="377" height="67" alt="Screenshot 2026-09-21 at 9 17 45 PM" src="https://github.com/user-attachments/assets/c8f5ac7b-480a-4f32-9f3b-e38af360d35c" />
+
+
+<img width="276" height="170" alt="Screenshot 2026-09-21 at 9 18 20 PM" src="https://github.com/user-attachments/assets/26e60b92-9298-4742-8c17-68826901f2cc" />
+
+
+Notice something very very important wrt the bubble sort we see that :
+
+
+the order of elements in the original array does not matter all n! possible arrays will take the same time .
+
+in the world of circuits we can do the (0 vs 1) ( 2 vs 3) ... (ith index vs i+1 th index ) in parallel  from intution itsel if this sorting algortihm is wrong then it must be wrong on some 0 vs 1 input also ie make the full array eihtr 0 or 1 or cobiantion of botht then we sort if the sorting alsgo is wrong then somewhere instead of 0 being behind 1 we get one fo the zeros in front of some 1 we can even prove that the 1s will flow to the right while the l0;s are elft behind thus sorting the array 
+
+The odd-even transposition network on n inputs, with n levels, correctly
+sorts every input in {0,1}n
+
+
+
+odd even transpotion ->
+
+
+(1,2) (3,4) (4,5) ...
+
+then (0,1) (2,3) ....
+then again (1,2) (3,4) ....
+
+
+
+O(n) time 
+
+
+
 
 
 
