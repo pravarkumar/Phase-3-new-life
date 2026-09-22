@@ -88,5 +88,8 @@ The situation : Its a do or die situation we have to win there is no other way o
 
 Till now the sem is going great we have to keep moving forward like this only just catch up on CS 231 otherwise everythign is going very good .
 
-The next major target is midsem .
+The next major target is endsem.
+
+
+This is it this is what we have lived the last 19 years for this is the moment for this only for this internship for this cpi cuttoff for this 8.5 cpi+ in iitb cse this is what we want this is what we are going for enough with givign up we grind we grow we win right here right now 
 
