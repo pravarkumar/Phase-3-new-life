@@ -27,4 +27,5 @@
 
     10:00->1:00) CS 230 problem solving even more + more clarity on the ISA part full notes 
 
-    
+
+    TOTAL EXPECTED GRIND : 15 hrs 
