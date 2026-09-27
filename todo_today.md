@@ -2,13 +2,13 @@
 
         PART 1 (5:30 -> 10:00) : 
 
-        1) CS 228 : PS6 finish
+        1) CS 228 : PS6 finish (done)
 
 
-        2) CS 230 catchup to full hazard slides (high priority)
+        2) CS 230 catchup to full hazard slides (high priority) (done)
 
 
-        3) CS 213 be done with the full sorting part 
+        3) CS 213 be done with the full sorting part (done)
 
 
         Time allocation : 1.5 + 1 + 1.5 = 4 hrs 
