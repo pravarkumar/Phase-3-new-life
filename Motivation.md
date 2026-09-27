@@ -93,3 +93,12 @@ The next major target is endsem.
 
 This is it this is what we have lived the last 19 years for this is the moment for this only for this internship for this cpi cuttoff for this 8.5 cpi+ in iitb cse this is what we want this is what we are going for enough with givign up we grind we grow we win right here right now 
 
+
+
+MIAN GOAL:
+
+
+<img width="216" height="387" alt="Screenshot 2026-09-27 at 6 43 39 PM" src="https://github.com/user-attachments/assets/187d718f-14f5-4f48-9125-c056b178d329" />
+
+
+We can do this cmonwe will od this cmon
