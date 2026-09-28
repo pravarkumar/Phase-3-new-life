@@ -13,7 +13,7 @@
         Task 5) Quest 10 of ps 6
 
         2)CS 213 + CS 293:
-        Task 1) Make full short notes of the lecture and upload also upload previous 4 lectures notes 
+        Task 1) Make full short notes of the lecture and upload also upload previous 4 lectures notes (done)
         Task 2) Revise all the sorting algorithms once again and write them on your own 
         Task 3) See solution of leetcode questions and memorize the imp ones for sorting 
 
