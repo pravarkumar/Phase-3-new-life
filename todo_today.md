@@ -10,6 +10,7 @@
         Task 2) 2025 tut 4 + tut 5 
         Task 3) See the whole notes which we have on this thing 
         Task 4) Stabilise whole theory we have done initially and the one which we have done right now and map it to Huth and Ryan 
+        Task 5) Quest 10 of ps 6
 
         2)CS 213 + CS 293:
         Task 1) Make full short notes of the lecture and upload also upload previous 4 lectures notes 
