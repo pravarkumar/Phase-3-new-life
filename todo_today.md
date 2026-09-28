@@ -1,6 +1,7 @@
         Todays plan is to prep for the sorting lab a bit more and most importantly focus on the 
         "performance and the assembly" part a bit more do the theory +         
-         the PYQ's there is no scope for us to mess up the next lab its do or die situation for the course.Also we need to get on with the CS 215 grind 
+         the PYQ's there is no scope for us to mess up the next lab its do or die situation for the course.
+         Also we need to get on with the CS 215 grind 
          in a systematic way and also do the Huth an Ryan part which sir expects us to do 
 
         Plan:
