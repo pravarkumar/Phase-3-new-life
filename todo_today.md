@@ -6,7 +6,7 @@
         Plan:
 
         1) CS 228 : 
-        Task 1) Huth and Ryan full predicate logic 
+        Task 1) Huth and Ryan full predicate logic (almost)
         Task 2) 2025 tut 4 + tut 5 
         Task 3) See the whole notes which we have on this thing 
         Task 4) Stabilise whole theory we have done initially and the one which we have done right now and map it to Huth and Ryan 
