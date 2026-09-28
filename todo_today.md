@@ -9,9 +9,7 @@
         1) CS 228 : 
         Task 1) Huth and Ryan full predicate logic (almost done)
         Task 2) 2025 tut 4 + tut 5 
-        Task 3) See the whole notes which we have on this thing 
-        Task 4) Stabilise whole theory we have done initially and the one which we have done right now and map it to Huth and Ryan 
-        Task 5) Quest 10 of ps 6
+        Task 3) Quest 10 of ps 6
 
         2)CS 213 + CS 293:
         Task 1) Make full short notes of the lecture and upload also upload previous 4 lectures notes (done)
@@ -28,8 +26,7 @@
         Task 3) Whole Performance PYQ's finished + figure out this Win-Mips64 thing
 
         5)CS 215 :
-        Task 1) Revise the whole lecture + see what can we do now 
-        Task 2) Full PYQ grind start 
+        Task 1) Revise the whole lecture + see what can we do now (done)
 
         
         
