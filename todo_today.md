@@ -18,7 +18,7 @@
         Taks 6) Lecture 17 
 
         3) CS 213 :
-        Task 1) Do the small midsem analysis left 
+        Task 1) Do the small midsem analysis left (done)
 
         3) CS 230 :
         Task 1) Finish the hazards slides after the branch predictor part fully (base done see this)
