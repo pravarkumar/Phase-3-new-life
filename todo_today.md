@@ -4,7 +4,7 @@
         Plan:
         
         1) CS 293 :
-        Task 1)Revise Linked List + all the theory of github + leetcode we did each and every technique + weekly lab 
+        Task 1)Revise Linked List + all the theory of github + leetcode we did each and every technique + weekly lab (done)
         Task 2) Same for Stack + Queue
         Task 3) Same for Deque 
         Task 4) Same for BST
