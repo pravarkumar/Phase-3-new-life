@@ -24,9 +24,9 @@
         Task 1) Finish the hazards slides after the branch predictor part fully (base done see this)
 
         4) CS 215 :
-        Task 1) Lecture 29 review + uploaded 
-        Task 2) Lecture 30 review + uploaded 
-        Task 3) Task 6 fully done without AI or calculator inside the space 
+        Task 1) Lecture 29 review + uploaded (done)
+        Task 2) Lecture 30 review + uploaded (done)
+        Task 3) Task 6 fully done without AI or calculator inside the space (done)
 
         
         
