@@ -1,32 +1,33 @@
-        Todays plan is to prep for the sorting lab a bit more and most importantly focus on the 
-        "performance and the assembly" part a bit more do the theory +         
-         the PYQ's there is no scope for us to mess up the next lab its do or die situation for the course.
-         Also we need to get on with the CS 215 grind 
-         in a systematic way and also do the Huth an Ryan part which sir expects us to do 
+        Todays plan is to get back on track and to prep for the upcoming midsem we need to review all the classes we missed and also we need to analyse the 
+        checked papers of midsem.
 
         Plan:
+        
+        1) CS 293 :
+        Task 1)Revise Linked List + all the theory of github + leetcode we did each and every technique + weekly lab 
+        Task 2) Same for Stack + Queue
+        Task 3) Same for Deque 
+        Task 4) Same for BST
 
-        1) CS 228 : 
-        Task 1) Huth and Ryan full predicate logic (almost done)
+        2) CS 228 : 
+        Task 1) Huth and Ryan full predicate logic (almost done) (finish it)
         Task 2) 2025 tut 4 + tut 5  
         Task 3) Quest 10 of ps 6
+        Task 4) Lecture 15 after slide 62 inclusive 
+        Task 5) Lecture 16 
+        Taks 6) Lecture 17 
 
-        2)CS 213 + CS 293:
-        Task 1) Make full short notes of the lecture and upload also upload previous 4 lectures notes (done)
-        Task 2) Revise all the sorting algorithms once again and write them on your own (done)
-        Task 3) See solution of leetcode questions and memorize the imp ones for sorting (done)
+        3) CS 213 :
+        Task 1) Do the small midsem analysis left 
 
-        3)CS 230 :
-        Task 1) BHT BTB eradicate both of them + finish the branch prediction with clarity once and for all. (done)
+        3) CS 230 :
+        Task 1) Finish the hazards slides after the branch predictor part fully
 
-        4)CS 231 : (Shifted to Wednesday)
-        Task 1) Full slides theory done + notes made + notes uploaded 
-        Task 2) All tasks finished from scratch and also uploaded 
-        Task 3) Whole Performance PYQ's finished + figure out this Win-Mips64 thing
+        4) CS 215 :
+        Task 1) Lecture 29 review + uploaded 
+        Task 2) Lecture 30 review + uploaded 
+        Task 3) Task 6 fully done without AI or calculator inside the space 
 
-        5)CS 215 :
-        Task 1) Revise the whole lecture + see what can we do now (done)
-        Task 2) Full Midsem analysis 
-
+        
         
         
