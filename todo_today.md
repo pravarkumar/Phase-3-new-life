@@ -21,7 +21,7 @@
         Task 1) Do the small midsem analysis left 
 
         3) CS 230 :
-        Task 1) Finish the hazards slides after the branch predictor part fully
+        Task 1) Finish the hazards slides after the branch predictor part fully (base done see this)
 
         4) CS 215 :
         Task 1) Lecture 29 review + uploaded 
